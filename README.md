@@ -1,2 +1,4 @@
 # CovidPortfolioProject
-1-22-20 to 3-3-2023
+
+## Summary 
+Analyzing COVID-19 data to identify trends, outliers, and 'hotspot' locations. 
