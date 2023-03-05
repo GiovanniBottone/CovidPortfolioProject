@@ -15,22 +15,6 @@ COVID-19 death counts in descending order are: Europe - 2.04M total deaths, Asia
 ### Forecasting COVID-19
 Using Tableau to forecast COVID-19 infection rates through 2024 for the US, UK, China, India & Mexico, the total percentage infected is expected to rise. 
 
-| Location | 2022 Q4 Infection Percentage | 2024 Q4 Projected Infection Percentage | Expected Percentage Increase
- ----------------------------------------------------------------------------------------------------------------
-| U.S.A    | 29.06%                       | 59.19%                                 | + 30.13%
- -------------------------------------
-| U.K.     | 35.47%                       | 61.81%                                 | + 26.34%
- -----------------------------------
-| Mexico   | 5.60%                        | 10.78%                                 | + 5.18%
- --------------------------------------
-| India    | 3.15%                        | 5.62%                                  | + 2.47%
- -----------------------
-| China    | 0.10%                        | 0.27%                                  | + 0.17%
- ------------------------
-
-## Conclusion
-Forecasting implies COVID-19 isn't going away anytime soon, with an average increase of roughly 15% per year in the USA from 2022 Q4 - 2024 Q4. Using this information, Americans should consider additional safety measures and precautions to prepare themselves for a potential COVID-19 increase.
-
 Location 	2022 Q4 Infection Percentage	2024 Q4 Projected Infection Percentage	Expected Percentage Increase
 U.S.A	29.06%	59.19%	30.13%
 U.K.	35.47%	61.81%	26.34%
@@ -38,3 +22,6 @@ Mexico	5.60%	10.78%	5.18%
 India	3.15%	5.62%	2.47%
 China	0.10%	0.27%	0.17%
 ![image](https://user-images.githubusercontent.com/95371617/222972741-9d0a900f-2d72-4197-9335-2c352e773d6e.png)
+
+## Conclusion
+Forecasting implies COVID-19 isn't going away anytime soon, with an average increase of roughly 15% per year in the USA from 2022 Q4 - 2024 Q4. Using this information, Americans should consider additional safety measures and precautions to prepare themselves for a potential COVID-19 increase.
