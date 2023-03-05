@@ -13,7 +13,6 @@ The global death percentage is 1.02%. This can be found by dividing the 6,846,89
 
 
 ### Total Deaths Per Continent
-COVID-19 death counts in descending order are: 
 ![image](https://user-images.githubusercontent.com/95371617/222972944-89d07533-f4f0-482a-ac41-2d0111595ad9.png)
 
 
