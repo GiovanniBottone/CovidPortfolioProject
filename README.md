@@ -1,4 +1,4 @@
-# CovidPortfolioProject
+# COVID-19 Analysis
 
 ## Summary 
 The purpose of this analysis was to gather, clean, and identify trends in global COVID-19 data ranging from 1/22/2020 - 3/3/2023 through SQL. 
